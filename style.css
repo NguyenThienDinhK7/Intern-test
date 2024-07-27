@@ -981,6 +981,22 @@
   justify-content: space-between;
 }
 
+.footer-follow-us-icon-facebook svg:hover{
+  background: #0866ff !important;
+  border-radius: 50%;
+}
+
+.footer-follow-us-icon-instagram svg:hover{
+  background: linear-gradient(45deg, #833ab4, #fd1d1d, #fcb045);
+  border-radius: 50%;
+}
+
+.footer-follow-us-icon-google svg:hover{
+  background: #eb493b;
+
+  border-radius: 50%;
+}
+
 .footer-follow-us-image {
   margin-top: 24px;
   width: 193px;
